@@ -1,5 +1,5 @@
 # Webinar Series 
-## [AI and Software Acceleration](./pdf/Webinar Series - AI and Software Acceleration.pdf)
+## [**AI and Software Acceleration**](./pdf/Webinar Series - AI and Software Acceleration.pdf)
 
 Topic
 - [Introducing Vitis Unified Software Platform](./pdf/Introducing Vitis Unified Software Platform.pdf)
