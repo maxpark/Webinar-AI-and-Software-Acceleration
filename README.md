@@ -1,8 +1,8 @@
 # Webinar Series 
-##  [AI and Software Acceleration](./pdf/Webinar Series - AI and Software Acceleration.pdf)
+## [AI and Software Acceleration](./pdf/Webinar Series - AI and Software Acceleration.pdf)
 
 Topic
-- Introducing Vitis Unified Software Platform
+- [Introducing Vitis Unified Software Platform](./pdf/Introducing Vitis Unified Software Platform.pdf)
 -	AI Inference Acceleration with Vitis AI
 -	Vitis AI Deep Dive
 - Development with Vitis Accelerated Libraries
